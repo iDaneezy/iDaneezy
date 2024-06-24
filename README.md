@@ -1,4 +1,5 @@
 ## Hi There!
+![Banner Image](https://static.vecteezy.com/system/resources/previews/000/664/751/original/vector-abstract-low-poly-banner-design.jpg)
 
 1. I hope to do Computer Science as a course in University, with the goal of one day becoming a Software Engineer
 2. Currently, I am learning how to improve my CV and get better at interviews with my work-experience at Sparta Global. 
